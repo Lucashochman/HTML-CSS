@@ -1,0 +1,50 @@
+.back-button {
+    text-decoration: none;
+    background-color: #f2f2f2;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+.back-link {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #e74c3c;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    transition: background-color 0.3s ease;
+}
+
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #666;
+    font-size: 16px;
+    margin-bottom: 20px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+strong {
+    color: #333;
+}
+
+a {
+    color: #3498db;
+    text-decoration: none;
+}
